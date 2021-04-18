@@ -10,31 +10,31 @@
 
 
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2017/02/disneylatinop.jpg" tvg-name="disney channel" group-title="Infantiles" ,disney channel
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/96859.m3u8?s=JUbyqc8s4ItYkvsMnUJh1A&e=1618657118
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/96859.m3u8?s=YCNHox0dpF6zlxJm8ouokg&e=1618746200
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/disneyxdp.jpg" tvg-name="Disney XD" group-title="Infantiles" ,Disney XD
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/12dyavowb6wnxh3.m3u8?s=z5TUhmcT4py-Y0YCwFL0Ow&e=1618657125
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/12dyavowb6wnxh3.m3u8?s=mz3XMd8jCOAzpPlJd4clSw&e=1618746209
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/disneyjuniorp.jpg" tvg-name="Disney Junior" group-title="Infantiles" ,Disney Junior
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/inkizfn6wve8oc.m3u8?s=CrkhLUQjbxSGXU47Z1jLFg&e=1618657132
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/inkizfn6wve8oc.m3u8?s=Df51vmwcGJpRbqfMbV522A&e=1618746215
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/discoverykidsp.jpg" tvg-name="Discovery Kids" group-title="Infantiles" ,Discovery Kids
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/rw14ff8tl5.m3u8?s=OdSdBTm6knaCU5lZqsiWuA&e=1618657140
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/rw14ff8tl5.m3u8?s=GQvjcEfghaBQOGkXX-Oblg&e=1618746222
 
 
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/nicktoonsp.jpg" tvg-name="Nicktoons online" group-title="Infantiles" ,Nicktoons online
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/vgwtkzk.m3u8?s=zMZiR0_0PXsr7jU1hl0RiA&e=1618657153
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/vgwtkzk.m3u8?s=DdOfsxv_2JuvbnFJMVYl0w&e=1618746235
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/nickp.jpg" tvg-name="Nick online" group-title="Infantiles" ,Nick online
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=H-FvG1dwOJc-zTPAcnnlkw&e=1618657160
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=Nvb0XIcXJStdc0EDx-pmpA&e=1618746242
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/tooncastp.jpg" tvg-name="Tooncast online" group-title="Infantiles" ,Tooncast online
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/9efxxdu.m3u8?s=my3wqWJyielJYybrbrRqaw&e=1618657166
-
-
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/9efxxdu.m3u8?s=jVs9uAGNmVgy02dhA4-6VQ&e=1618746249
+#EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/boomerangp.jpg" tvg-name="Boomerang online" group-title="Infantiles" ,Boomerang online
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/hmnf8ejk.m3u8?s=eIVzIS7X8pQzQd4_XDBU9g&e=1618746256
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/cartoonnetworklatinop.jpg" tvg-name="Cartoon Network" group-title="Infantiles" ,Cartoon Network
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/1feji.m3u8?s=-QnEFlkpwJ916bLOjBb6hg&e=1618657181
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/1feji.m3u8?s=MgHccIYmRkrKJtAStNTqkg&e=1618746263
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/babyfirstp.jpg" tvg-name="baby first" group-title="Infantiles" ,baby first
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/l8z0taw5y.m3u8?s=Q8jUlD_ZvEq0vGtPWmGyvw&e=1618657188
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/l8z0taw5y.m3u8?s=LR3F9Y1GUEpFfGP60YlUag&e=1618746270
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/babytvp.jpg" tvg-name="baby tv" group-title="Infantiles" ,baby tv
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/o4pvqti.m3u8?s=_LzavBe3BJjg5rM9TENKeQ&e=1618657195
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/o4pvqti.m3u8?s=kg7PaeECegDCywxy6NiKrQ&e=1618746278
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/pakapakap.jpg" tvg-name="paka paka" group-title="Infantiles" ,paka paka
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/p7wmuto1cyiah.m3u8?s=qTQqYnYD-S-jlitxauww1A&e=1618657202
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/p7wmuto1cyiah.m3u8?s=06teXyuAtLt_YuMqd20sqA&e=1618746284
 
 
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/08/futboldeprimerap.jpg" tvg-name="La Liga" group-title="Deportes" ,La Liga
@@ -114,109 +114,109 @@ https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/vcy4pw0xw3xd.m3u8?s=6kQCk23XuKyR0W
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/bitmep.jpg" tvg-name="bitme" group-title="Deportes" ,bitme
 https://dyzmsa8rnq04qk5.ezcdn462.net:8443/hls/21zryaxtu4y.m3u8?s=HJzFzZyxw9GVmITWSdClTw&e=1618054748
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/01/cinestrenosp.jpg" tvg-name="Movistar Estrenos" group-title="Cine" ,Movistar Estrenos
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/yahigmfat.m3u8?s=FwNKXCcjejwsxc0iNDOvyA&e=1618657338
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/yahigmfat.m3u8?s=QM_5XnlRbWBGl_gFDNoS4A&e=1618746872
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/01/cineaccionp.jpg" tvg-name="Movistar Accion" group-title="Cine" ,Movistar Accion
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/kybasi1635v6.m3u8?s=cqzW64uOeLLEa8-T04ChLw&e=1618657344
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/kybasi1635v6.m3u8?s=1sOmMkKOKropqB3rs_Ue7g&e=1618746878
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/01/cinedramap.jpg" tvg-name="Movistar Dcine" group-title="Cine" ,Movistar Dcine
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/ngw10prw.m3u8?s=kf3G_yyv6sSN8VVoWZop5Q&e=1618657352
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/ngw10prw.m3u8?s=Gu9V8KdTv0Ck2B9D9QtmmA&e=1618746886
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/01/cinecomediap.jpg" tvg-name="Movistar Comedia" group-title="Cine" ,Movistar Comedia
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/m9psjyy4b7p.m3u8?s=DSZxcOwQhSdbM8hBn-vPsw&e=1618657359
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/m9psjyy4b7p.m3u8?s=nLW5UGajn4aryAfPeqtnNQ&e=1618746895
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/amcp.jpg" tvg-name="amc" group-title="Cine" ,amc
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/e12qvvmfkp.m3u8?s=1BAFU8TdXhrVvEIZcz9KOQ&e=1618657365
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/e12qvvmfkp.m3u8?s=or3XT0zdht6q2W5N-hELJg&e=1618746899
 
 
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/comedycentralp.jpg" tvg-name="comedy central 2" group-title="Cine" ,comedy central 2
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/xw6w4feud73ss1d.m3u8?s=3toTq0aQ4WhXKHzg_zkyRw&e=1618657379
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/xw6w4feud73ss1d.m3u8?s=2OMxhGTusqRnvzV8Tf18vA&e=1618746916
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/tntp.jpg" tvg-name="TNT hd" group-title="Cine" ,TNT hd
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/ty5e9aqf3.m3u8?s=irlQfSXewVWY7OT_JCbz9w&e=1618657386
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/ty5e9aqf3.m3u8?s=PSG0bEWZD4_wOa91y5iuwg&e=1618746922
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/hollyboodp.jpg" tvg-name="Hollywood channel" group-title="Cine" ,Hollywood channel
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/x5e842ylumf64uz.m3u8?s=uZ9YiIFPRAPwNm1HbgnbGQ&e=1618657395
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/x5e842ylumf64uz.m3u8?s=338S4Z-IOr2SMs8EMkMc7g&e=1618746927
 
 
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2020/05/a3cinep.jpg" tvg-name="A3 Cine" group-title="Cine" ,A3 Cine
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/lfpuv4leaqzauf.m3u8?s=hDXdzkniLzYaqASUL4VAog&e=1618657408
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/lfpuv4leaqzauf.m3u8?s=nv18878dH8p1CZW8nb-DGA&e=1618746942
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2020/05/xtrmp.jpg" tvg-name="Xtrm" group-title="Cine" ,Xtrm
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/lfpuv4leaqzauf.m3u8?s=hDXdzkniLzYaqASUL4VAog&e=1618657408
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/lfpuv4leaqzauf.m3u8?s=nv18878dH8p1CZW8nb-DGA&e=1618746942
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2016/11/darkp.jpg" tvg-name="Dark" group-title="Cine" ,Dark
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/6hucdn7rmjn.m3u8?s=7qzFlaM-PMl1hccidYRcJw&e=1618657421
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/6hucdn7rmjn.m3u8?s=u_Pj2ZPOhFXzrTi05eobNg&e=1618746956
 
 
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/cinenp.jpg" tvg-name="Cine N" group-title="Cine" ,Cine N
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/wvu3us.m3u8?s=-gsD0OJyLcVAN8pXZEQuTg&e=1618657436
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/wvu3us.m3u8?s=B39iKTrSpiid9V2AjjBVWw&e=1618746969
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2016/11/hbolatinop.jpg" tvg-name="HBO latino" group-title="Cine" ,HBO latino
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/lbqtn3.m3u8?s=R1wXZWZijiSkbrsQkMNMGw&e=1618657443
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/lbqtn3.m3u8?s=y9sL7Cy0B_kPncuLbLxC5g&e=1618746976
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2016/11/hbo2.jpg" tvg-name="HBO 2" group-title="Cine" ,HBO 2
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/x5r58d0omlmqph.m3u8?s=9DLGVMBYNEX2CuVEFJVZCQ&e=1618657450
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/x5r58d0omlmqph.m3u8?s=flavr-yoWkjTDkBfBcANqQ&e=1618746983
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/HBOplusp.jpg" tvg-name="HBO plus" group-title="Cine" ,HBO plus
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/3dgzjbpy.m3u8?s=TO8mJQAS8JlfnRti-5Hw0w&e=1618657457
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/3dgzjbpy.m3u8?s=9tY66bxuDsT739wNLMPF1w&e=1618746993
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2020/04/hboxtremep.jpg" tvg-name="HBO Xtreme" group-title="Cine" ,HBO Xtreme
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/way71f4yp5a3.m3u8?s=SFTgwvjWS5gDKt9uhmzxzQ&e=1618657463
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/way71f4yp5a3.m3u8?s=LhjHHc_1--rWxUwElETG0w&e=1618746997
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2020/04/hbomundip.jpg" tvg-name="HBO Mundi" group-title="Cine" ,HBO Mundi
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/8nviuzdhm5jnu.m3u8?s=yRr9XUCZBwvQruFdDe19rA&e=1618657471
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/8nviuzdhm5jnu.m3u8?s=veZxUtIbpWZxVorDhuP53A&e=1618747004
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2020/04/hbopopp.jpg" tvg-name="HBO pop" group-title="Cine" ,HBO pop
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/rvqh1fziz.m3u8?s=3_r9WXw5YDC5Dg5mgn8nkw&e=1618657478
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/rvqh1fziz.m3u8?s=BfSM7DuyFQ4PJ_MSr6EH3g&e=1618747011
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2018/03/hbofamilyp.jpg" tvg-name="HBO family" group-title="Cine" ,HBO family
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/mfobze65eqg.m3u8?s=8B3ejhFTLiQRHbsaLLRYww&e=1618657485
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/mfobze65eqg.m3u8?s=lgBn_2VW4FaaFGF1vQX-4A&e=1618747018
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/02/hbosignaturep.jpg" tvg-name="Hbo Signature" group-title="Cine" ,Hbo Signature
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/g05mnm.m3u8?s=h0zT5enKPDTlB-K8Hx9UkA&e=1618657492
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/g05mnm.m3u8?s=sKNN7pUnmGWhB6Tz4Z0izw&e=1618747025
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2021/03/staractionp.jpg" tvg-name="Star Action" group-title="Cine" ,Star Action
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/4612rwe.m3u8?s=kKvKMSyorddNZizgOsuqrQ&e=1618657498
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/4612rwe.m3u8?s=BG343u9YqWbAqRydhJSwEg&e=1618747033
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2021/03/starhitsp.jpg" tvg-name="Star Hits" group-title="Cine" ,Star Hits
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/4dtc368405sw4mo.m3u8?s=Sdk0jpwdhqZLIxxU5kIZzw&e=1618657505
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/4dtc368405sw4mo.m3u8?s=CGwL8PJb1YeEIOM0dxnX9w&e=1618747041
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2021/03/starfunp.jpg" tvg-name="Star Fun" group-title="Cine" ,Star Fun
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/goks9npik9.m3u8?s=KeJksy2m4uOwT0vr3HPGYA&e=1618657513
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/goks9npik9.m3u8?s=gB_O-Dnhtqt5mqizHl7Vsw&e=1618747048
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2021/03/starcomedyp.jpg" tvg-name="Star Comedy" group-title="Cine" ,Star Comedy
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/pnc0det5nknvqo.m3u8?s=NQfWsaq2xPUlbtv9Gjx1jQ&e=1618657520
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/pnc0det5nknvqo.m3u8?s=OXNEpj7Rr7wuOHgeEvRUgA&e=1618747053
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2021/03/starseriesp.jpg" tvg-name="Star Series" group-title="Cine" ,Star Series
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/in515ybo3y.m3u8?s=d6zZED_eBoRTRJyV34iUyw&e=1618657526
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/in515ybo3y.m3u8?s=hHsoal7MtanLGJObTP1xkw&e=1618747062
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2021/03/starlifep.jpg" tvg-name="Star Life" group-title="Cine" ,Star Life
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/aa03um3.m3u8?s=4fOs5VQx0jGNw7eO2WGHFg&e=1618657533
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/aa03um3.m3u8?s=0G4YOeH3pc3RIGnAOgCndA&e=1618747067
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2021/03/starchannelp.jpg" tvg-name="Star Channel" group-title="Cine" ,Star Channel
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/0e733j.m3u8?s=_2UuI-op84a69Yq2vfLRdw&e=1618657541
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/0e733j.m3u8?s=eT0WvwKD1n_amvFpByPcoA&e=1618747075
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/fxp.jpg" tvg-name="Canal FX" group-title="Cine" ,Canal FX
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/3cuvpp5n.m3u8?s=gRE2SZmJQJOoCw9EwFrwuw&e=1618657547
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/3cuvpp5n.m3u8?s=X5MAlRqYAgR1GHTC_fus0g&e=1618747082
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2018/07/fxmoviesp.jpg" tvg-name="FX movies" group-title="Cine" ,FX movies
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/jpizlg1osqocv.m3u8?s=AbwG2fuFDBbgy6alcZ32_Q&e=1618657555
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/jpizlg1osqocv.m3u8?s=82yBCp6frvkKiLp1tqDOrQ&e=1618747089
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/spaceargp.jpg" tvg-name="Space" group-title="Cine" ,Space
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/me4gtt8v3fmket.m3u8?s=smURbd8u7jrC6Nu67QHVng&e=1618657562
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/me4gtt8v3fmket.m3u8?s=6E3k50DObqJ2SHFL-tJGuw&e=1618747096
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/studiouniversalp.jpg" tvg-name="Studio Universal" group-title="Cine" ,Studio Universal
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=wqricatgq-1zIVXBflHkSw&e=1618657569
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=jQgLFcDMoHOMP8NX2UgClA&e=1618747102
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/cinemaxp.jpg" tvg-name="cinemax" group-title="Cine" ,cinemax
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/ztv7sh.m3u8?s=oVBVsBirHkHqICz0jCSqRQ&e=1618657575
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/ztv7sh.m3u8?s=NRLXNYyvK7_B6tnYyNACmw&e=1618747110
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2017/01/amclatinop.jpg" tvg-name="AMC latino" group-title="Cine" ,AMC latino
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/md6vp5fj8yj7l1h.m3u8?s=jzt6JhG_Wy1pQVHRpngteA&e=1618657584
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/md6vp5fj8yj7l1h.m3u8?s=OmmzVE1uLc4xzkQSFUj3lw&e=1618747118
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/goldenp.jpg" tvg-name="Golden HD" group-title="Cine" ,Golden HD
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/lnxn10nmtnl5.m3u8?s=xpMAvR13IDboPAF7PE7jnQ&e=1618657589
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/lnxn10nmtnl5.m3u8?s=k5SoWXlXw8YSESyUDJjSIQ&e=1618747124
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/goldenedgep.jpg" tvg-name="golden edge" group-title="Cine" ,golden edge
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/aef8t7z.m3u8?s=n0JZDYhRS-wbs5u4axxuxg&e=1618657597
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/aef8t7z.m3u8?s=lFWnh9xcSLpKEl8znxXmVw&e=1618747133
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/goldenplusp.jpg" tvg-name="golden plus" group-title="Cine" ,golden plus
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/daw8b.m3u8?s=zCHxtixeyQ6glVTGB7pFxQ&e=1618657604
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/daw8b.m3u8?s=o2UmIPZ4ZDrKFmuH7-5ABg&e=1618747137
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/cinecanallatinop.jpg" tvg-name="Cinecanal latino" group-title="Cine" ,Cinecanal latino
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/ymv0a1aobkxuf.m3u8?s=0Z1Vdpc5qzyMQNjLPoSxeQ&e=1618657611
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/ymv0a1aobkxuf.m3u8?s=9r0qzRmVCoFBz9_WwRHDcA&e=1618747146
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/tbsp.jpg" tvg-name="tbs" group-title="Cine" ,tbs
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/zt5tkrst5tw71c.m3u8?s=7GHtEwK6OAngMzXZtZ29Og&e=1618657618
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/zt5tkrst5tw71c.m3u8?s=hXhnRGyFWdKew2YuTwIAlw&e=1618747151
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/paramoutchannelp.jpg" tvg-name="Paramount latino" group-title="Cine" ,Paramount latino
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/vwchy5d.m3u8?s=_R9HRDxsIuHppuWS3CSJgQ&e=1618657624
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/vwchy5d.m3u8?s=ZZDia5CPyyYeLiSf_zT2vg&e=1618747159
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/ayep.jpg" tvg-name="AyE" group-title="Cine" ,AyE
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/1md5d55ngm.m3u8?s=9OGQCtAeXqMuttnfrLGS5A&e=1618657632
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/1md5d55ngm.m3u8?s=16YwsJCl8coZua1JlJbdHQ&e=1618747166
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/tcmp.jpg" tvg-name="TCM" group-title="Cine" ,TCM
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/eueu7.m3u8?s=UOvh1y2bGkGMmBfUGln-Fw&e=1618657639
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/eueu7.m3u8?s=XGjnlwMoTed4N87_CBVlYQ&e=1618747173
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/sonytvp.jpg" tvg-name="Sony tv" group-title="Cine" ,Sony tv
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/oc2v2i6j.m3u8?s=tDBXnahDWnBVA3jiamP55Q&e=1618657645
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/oc2v2i6j.m3u8?s=FTCJfaiFLQmuoqEonF-gTQ&e=1618747180
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploadshttp://lacalleochotv.org/warnertvp.jpg" tvg-name=" Warner" group-title="Cine" , Warner
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/j5uwhfb7w5c.m3u8?s=FlByFnXc84MSKmT1wFZx2g&e=1618657652
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/j5uwhfb7w5c.m3u8?s=uJYcoAGg0XorFdVsTfQYfw&e=1618747187
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/universalchannellatinop.jpg" tvg-name="Universal Channel" group-title="Cine" ,Universal Channel
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/d77wqro8917ua5z.m3u8?s=mdW0yI1jepjuWTCVXsLh5A&e=1618657661
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/d77wqro8917ua5z.m3u8?s=RKS9D25vW0suMYknjIv8zQ&e=1618747196
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/axnhdp.jpg" tvg-name="AXN latino" group-title="Cine" ,AXN latino
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/l051rl.m3u8?s=PzEa62QEJVQPdjt_AecuMw&e=1618657666
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/l051rl.m3u8?s=ERup-Yz8uKdQowewVlADnQ&e=1618747201
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/09/tntlatp.jpg" tvg-name="TNT Latino" group-title="Cine" ,TNT Latino
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/glaldsq.m3u8?s=NfIPQSjdwSG0I2KLLmXL1Q&e=1618657673
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/glaldsq.m3u8?s=nnOFYCVxsKJZbls6NVoDZw&e=1618747208
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/comedycentrallatp.jpg" tvg-name="comedy central latino" group-title="Cine" ,comedy central latino
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/4qox4.m3u8?s=68H200stwz_LvT2mv7444A&e=1618657681
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/4qox4.m3u8?s=mr23epzdhMWlEvLQt2amUQ&e=1618747215
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/aztecacinemap.jpg" tvg-name="Azteca cine" group-title="Cine" ,Azteca cine
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/nxlhxl.m3u8?s=sn6pzRAwxurMX1hxyGA0cw&e=1618657688
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/nxlhxl.m3u8?s=3wR-wrfwpD0G5V4KR3CZ-Q&e=1618747222
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/depeliculap.jpg" tvg-name="de pelicula" group-title="Cine" ,de pelicula
-https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/1zrltg3e.m3u8?s=PLHwtsf9WApTi2CR1V4R5g&e=1618657695
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/1zrltg3e.m3u8?s=oZmhR2AXjMK40tnloHlifQ&e=1618747229
 
 
 #EXTINF:-1, tvg-logo="http://lacalleochotv.org/wp-content/uploads/axnp.jpg" tvg-name="AXN" group-title="Series" ,AXN
