@@ -350,6 +350,6 @@ https://srv.panelcast.net/puruwalive/puruwalive/chunklist_w1051321997.m3u8
 #EXTINF:-1, tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/251c0e67b4c5879b544d2bc79518011c.png" tvg-name="Telesur Ingles" group-title="Ecuador" ,Telesur Ingles
 https://d7g1ebft2592.cloudfront.net/mblivev3/480p/chunklist_w2047613947.m3u8
 #EXTINF:-1, tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/251c0e67b4c5879b544d2bc79518011c.png" tvg-name="Gol TV" group-title="Ecuador" ,Gol TV
-https://cdn.livepeer.com/hls/50fdmk759ml5wrrk/2_0/index.m3u8
+https://cdn.livepeer.com/hls/65b2xf0znwg8pwl2/1_0/index.m3u8
 #EXTINF:-1, tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/251c0e67b4c5879b544d2bc79518011c.png" tvg-name="Gol TV" group-title="Ecuador" ,Gol TV2
-https://cdn.livepeer.com/hls/50fdmk759ml5wrrk/1_0/index.m3u8
+https://cdn.livepeer.com/hls/65b2xf0znwg8pwl2/1_0/index.m3u8
